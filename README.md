@@ -1,6 +1,14 @@
 # MySkin App
 
-MySkin is a Flutter-based mobile application designed to help users determine their skin type and provide personalized skincare routines and product recommendations. This readme provides detailed instructions on installation, dependencies, and usage of the MySkin app.
+## Table of content
+- [Getting Started](#getting-started)
+- [Overview](#overview)
+- [Installation](#installation)
+- [Dependencies](#dependencies)
+- [Usage](#usage)
+- [Contributions](#contributions)
+- [License](#license)
+
 
 ## Getting Started
 
@@ -14,6 +22,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Overview
+MySkin is a Flutter-based mobile application designed to help users determine their skin type and provide personalized skincare routines and product recommendations. This readme provides detailed instructions on installation, dependencies, and usage of the MySkin app.
 
 
 ## Installation
