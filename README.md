@@ -8,7 +8,7 @@
 - [Usage](#usage)
 - [Contributions](#contributions)
 - [License](#license)
-
+- [Contact](#contact)
 
 ## Getting Started
 
@@ -87,5 +87,9 @@ Contributions to the MySkin app are welcome! If you find any issues or have idea
 ## License
 
 The MySkin app is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Contact
+
+For any questions or inquiries, please contact chibundumozia@gmail.com
 
 
